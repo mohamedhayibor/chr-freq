@@ -1,4 +1,4 @@
-# chr-freq
+# chr-freq ![Build Status](https://travis-ci.org/mohamedhayibor/check-question.svg?branch=master)
 
 This module gives you a command `chr-freq` that counts the character frequencies of a given string. All from the command line.
 
