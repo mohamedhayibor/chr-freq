@@ -12,11 +12,8 @@ Don't forget the "-g" to install it globally. (then you can run chr-freq anywher
 ## Usage
 On your terminal:
 
-```
-  > chr-freq hey that's a string right there &&&
-  // => { h: 4, e: 3, y: 1, t: 5, a: 2, s: 2, r: 3, i: 2, n: 1, g: 2, '&': 3 }
+![](http://res.cloudinary.com/masteryoperation/image/upload/v1463849326/Screen_Shot_2016-05-21_at_11.44.48_AM_xamozw.png)
 
-```
 Basically: The keyword "chr-freq" and whatever string you want the character frequencies from.
 
 ## Raison d'être
