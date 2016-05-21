@@ -34,7 +34,8 @@ const characterCounter = (str) => {
   return result;
 }
 // excecute and log result
-process.stdout.write( characterCounter(string) )
+let finalResult = characterCounter( string );
+console.log( finalResult );
 
 // frequency counter for testing
 module.exports = { characterCounter };
