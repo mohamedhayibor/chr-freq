@@ -1,6 +1,6 @@
 {
   "name": "chr-freq",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This module gives you a command `chr-freq` that counts the character frequency of a given string. All from the command line.",
   "main": "index.js",
   "bin": {
