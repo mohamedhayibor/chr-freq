@@ -1,0 +1,40 @@
+{
+  "name": "chr-freq",
+  "version": "1.0.0",
+  "description": "This module gives you a command `chr-freq` that counts the character frequency of a given string. All from the command line.",
+  "main": "index.js",
+  "bin": {
+    "chr-freq": "cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedhayibor/chr-freq.git"
+  },
+  "keywords": [
+    "characters",
+    "string",
+    "strings",
+    "command"
+  ],
+  "author": "Mohamed Hayibor <mohamedhayibor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedhayibor/chr-freq/issues"
+  },
+  "homepage": "https://github.com/mohamedhayibor/chr-freq#readme",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  },
+  "dependencies": {
+    "meow": "^3.7.0"
+  }
+}
