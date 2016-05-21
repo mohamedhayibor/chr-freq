@@ -33,6 +33,8 @@ const characterCounter = (str) => {
   })
   return result;
 }
+// excecute and log result
+process.stdout.write( characterCounter(string) )
 
 // frequency counter for testing
 module.exports = { characterCounter };
